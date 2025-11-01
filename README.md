@@ -33,8 +33,12 @@
 برای اجرای پروژه، مراحل زیر را انجام دهید:
 
 <h1>  نصب محیط مجاری</h1>
-ctrl + " ` "  ->python -m venv selected_name  --> selected_name/bin/activate 
-mkdir test.ipynb -->shift + Enter -->python Envirement...-->install
+<p align="center">
+  <b>    ctrl + " ` "  ->python -m venv selected_name  --> selected_name/bin/activate           </b>
+  <b>   mkdir test.ipynb -->shift + Enter -->python Envirement...-->install
+           </b>
+</p>
+
 
 
 
