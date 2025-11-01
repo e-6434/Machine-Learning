@@ -35,6 +35,8 @@
 <h1>  نصب محیط مجاری</h1>
 <p align="center">
   <b>    ctrl + " ` "  ->python -m venv selected_name  --> selected_name/bin/activate           </b>
+  </p>
+  <p align="center">
   <b>   mkdir test.ipynb -->shift + Enter -->python Envirement...-->install
            </b>
 </p>
